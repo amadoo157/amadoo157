@@ -13,6 +13,8 @@
   <img src="https://img.icons8.com/ios-filled/50/000000/image.png" alt="Wireframing" style="width: 48px; height: 48px; margin: 10px;"/>
 </div>
 
+#
+
 ### Projects Highlights:
 - **EthioMakarios Non-Profit Dashboard**: Created a members-only dashboard, games, and core application for EthioMakarios. Conducted code reviews, ensured optimal UX/UI, and collaborated on PHP-based backend.
 - **Frontend Internship**: Contributed to system management technology courses, addressing device compatibility issues, and enhancing front-end appearance.
