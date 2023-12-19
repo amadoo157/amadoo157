@@ -1,6 +1,8 @@
+
 # 👋 AmadoO Hub
 
 ## Student | Programmer | Musician
+
 <style>
   .icon-container {
     display: flex;
@@ -18,15 +20,18 @@
     filter: invert(61%) sepia(98%) saturate(2889%) hue-rotate(119deg) brightness(95%) contrast(90%); /* Adjust color here */
   }
 </style>
+
 ### Technologies I Work With:
-<div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap; max-width: 80%; margin: 20px auto;">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px; margin: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" style="width: 48px; height: 48px; margin: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" style="width: 48px; height: 48px; margin: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" style="width: 48px; height: 48px; margin: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML/CSS" style="width: 48px; height: 48px; margin: 10px;"/>
-  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git" style="width: 48px; height: 48px; margin: 10px;"/>
-  <img src="https://img.icons8.com/ios-filled/50/000000/image.png" alt="Wireframing" style="width: 48px; height: 48px; margin: 10px;"/>
+<div class="icon-container">
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C"/>
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/fluency/48/000000/rust.png" alt="Rust"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML/CSS"/>
+  <img src="https://img.icons8.com/color/48/000000/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/plasticine/50/000000/algorithm.png" alt="Algorithms"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/image.png" alt="Wireframing"/>
 </div>
 
 ### Projects Highlights:
