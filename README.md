@@ -1,4 +1,4 @@
-# 👋 AmadoO Hub
+# 🎮 AmadoO Gamer Hub
 
 ## Student | Programmer | Musician
 
