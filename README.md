@@ -1,7 +1,23 @@
 # 👋 AmadoO Hub
 
 ## Student | Programmer | Musician
+<style>
+  .icon-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    max-width: 80%;
+    margin: 20px auto;
+  }
 
+  .icon-container img {
+    width: 48px; /* Adjust size here */
+    height: 48px; /* Adjust size here */
+    margin: 10px; /* Adjust spacing here */
+    filter: invert(61%) sepia(98%) saturate(2889%) hue-rotate(119deg) brightness(95%) contrast(90%); /* Adjust color here */
+  }
+</style>
 ### Technologies I Work With:
 <div style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap; max-width: 80%; margin: 20px auto;">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" style="width: 48px; height: 48px; margin: 10px;"/>
